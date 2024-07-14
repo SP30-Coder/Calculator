@@ -1,2 +1,2 @@
 # Calculator
-It helps in calculation
+It provids the final answer to the users after calculation.
